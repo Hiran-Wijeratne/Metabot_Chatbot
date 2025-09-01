@@ -10,111 +10,101 @@ class Config:
     """Configuration class for RAG Chatbot"""
     
     # =============================================================================
+    # MULTIMODAL FEATURES
+    # =============================================================================
+    
+    ENABLE_IMAGE_RESPONSES = True
+    MAX_IMAGES_PER_RESPONSE = 3
+    
+    VISION_MODEL = "blip2"  # Options: blip2, clip
+    USE_CACHED_CAPTIONS = True
+    
+    IMAGE_KEYWORDS = [
+        'image', 'images', 'picture', 'pictures', 'diagram', 'diagrams',
+        'figure', 'figures', 'chart', 'charts', 'graph', 'graphs',
+        'illustration', 'illustrations', 'photo', 'photos', 'visual',
+        'screenshot', 'screenshots', 'drawing', 'drawings'
+    ]
+    
+    SUMMARY_KEYWORDS = [
+        'summary', 'summarize', 'overview', 'outline', 'main points',
+        'key points', 'highlights', 'brief', 'all about', 'everything about',
+        'entire', 'whole', 'complete', 'comprehensive', 'general information'
+    ]
+    
+    # =============================================================================
     # FILE PATHS
     # =============================================================================
     
-    # Path to your PDF training manual
-    # Update this to point to your actual PDF file
     PDF_PATH = "documents/META-SCRUB 60_User Manual.pdf"
-    
-    # Data directories
     DATA_DIR = "data"
-    IMAGES_DIR = "images" 
+    IMAGES_DIR = "images"
     DOCUMENTS_DIR = "documents"
     
     # =============================================================================
     # OPENAI SETTINGS
     # =============================================================================
     
-    # OpenAI API settings
     OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
-    
-    # Model for chat responses (cost-optimized)
     MODEL_NAME = "gpt-3.5-turbo"
-    
-    # Embedding model (cheapest option)
     EMBEDDING_MODEL = "text-embedding-3-small"
-    
-    # Maximum tokens for responses
     MAX_TOKENS = 1000
-    
-    # Temperature for response generation (0.0 = deterministic, 1.0 = creative)
     TEMPERATURE = 0.1
     
     # =============================================================================
     # TEXT PROCESSING SETTINGS
     # =============================================================================
     
-    # Text chunking parameters
-    CHUNK_SIZE = 250          # Target tokens per chunk (200-300 as requested)
-    CHUNK_OVERLAP = 50        # Overlap between chunks to maintain context
-    
-    # Maximum characters per chunk (rough estimate: 4 chars per token)
+    CHUNK_SIZE = 250
+    CHUNK_OVERLAP = 50
     MAX_CHUNK_CHARS = CHUNK_SIZE * 4
     
     # =============================================================================
-    # VECTOR SEARCH SETTINGS  
+    # VECTOR SEARCH SETTINGS
     # =============================================================================
     
-    # Number of relevant chunks to retrieve for each query
     TOP_K = 5
-    
-    # Similarity threshold (0.0 to 1.0, higher = more similar)
+    TOP_K_SUMMARY = 15
     SIMILARITY_THRESHOLD = 0.3
-    
-    # Vector database settings
-    EMBEDDING_DIMENSION = 1536  # Dimension for text-embedding-3-small
+    EMBEDDING_DIMENSION = 1536
     
     # =============================================================================
     # OCR SETTINGS
     # =============================================================================
     
-    # OCR engine preference: 'tesseract' or 'easyocr'
-    OCR_ENGINE = "easyocr"  # easyocr is more accurate but slower
-    
-    # OCR languages (for EasyOCR)
+    OCR_ENGINE = "easyocr"
     OCR_LANGUAGES = ['en']
-    
-    # Tesseract configuration (if using tesseract)
     TESSERACT_CONFIG = '--oem 3 --psm 6'
-    
-    # Minimum confidence threshold for OCR text
     OCR_CONFIDENCE_THRESHOLD = 0.5
     
     # =============================================================================
     # PDF PROCESSING SETTINGS
     # =============================================================================
     
-    # Image extraction settings
     EXTRACT_IMAGES = True
-    MIN_IMAGE_SIZE = (100, 100)  # Minimum width, height to process
-    IMAGE_DPI = 150              # DPI for image extraction
-    
-    # Text extraction settings
+    MIN_IMAGE_SIZE = (100, 100)
+    IMAGE_DPI = 150
     IGNORE_HEADERS_FOOTERS = True
-    MIN_TEXT_LENGTH = 10         # Minimum characters for a text chunk
+    MIN_TEXT_LENGTH = 10
     
     # =============================================================================
     # UI SETTINGS
     # =============================================================================
     
-    # Gradio interface settings
     GRADIO_THEME = "soft"
     GRADIO_PORT = 7860
     GRADIO_HOST = "127.0.0.1"
-    
-    # Chat settings
-    MAX_HISTORY_LENGTH = 50  # Maximum chat history to maintain
+    MAX_HISTORY_LENGTH = 50
     
     # =============================================================================
     # SYSTEM PROMPTS
     # =============================================================================
     
-    SYSTEM_PROMPT = """You are a helpful assistant that answers questions based on a user training manual. 
+    SYSTEM_PROMPT = """You are a helpful assistant that answers questions based on a training manual. 
 
 IMPORTANT RULES:
 1. Only answer based on the provided context from the training manual
-2. If the context doesn't contain relevant information, say "I don't have information about that in the user training manual"
+2. If the context doesn't contain relevant information, say "I don't have information about that in the training manual"
 3. Always cite which section or page the information comes from when possible
 4. Be concise but comprehensive in your answers
 5. If there are related images or diagrams mentioned, reference them in your response
@@ -124,15 +114,43 @@ Format your responses clearly with:
 - Supporting details from the manual
 - Source references where applicable
 """
-
+    
     RAG_PROMPT_TEMPLATE = """Based on the following context from the training manual, please answer the user's question.
 
 Context:
 {context}
 
 Question: {question}
+"""
+    
+    SUMMARY_PROMPT_TEMPLATE = """Based on the following sections from the training manual, provide a comprehensive summary that covers the main points and key information.
 
-Answer based only on the provided context. If the context doesn't contain relevant information, say so clearly."""
+Sections from manual:
+{context}
+
+Question: {question}
+
+Please provide a well-structured summary that:
+1. Covers the main topics and key points
+2. Is organized logically
+3. Includes important details without being overwhelming
+4. References the source sections when relevant
+
+Summary:
+"""
+    
+    IMAGE_CONTEXT_PROMPT = """Based on the following context from the training manual and the image description, please answer the user's question.
+
+Text Context:
+{context}
+
+Image Information:
+{image_info}
+
+Question: {question}
+
+Answer based on both the text context and image information provided:
+"""
     
     # =============================================================================
     # LOGGING SETTINGS
@@ -145,22 +163,19 @@ Answer based only on the provided context. If the context doesn't contain releva
     # PERFORMANCE SETTINGS
     # =============================================================================
     
-    # Batch processing settings
     EMBEDDING_BATCH_SIZE = 100
-    
-    # Memory optimization
     USE_MEMORY_MAPPING = True
-    
-    # Parallel processing (set to None to use all CPU cores)
     N_JOBS = None
     
+    # =============================================================================
+    # INIT
+    # =============================================================================
+    
     def __init__(self):
-        """Initialize configuration and validate settings"""
         self.validate_config()
         self.ensure_directories()
     
     def validate_config(self):
-        """Validate configuration settings"""
         if not self.OPENAI_API_KEY:
             print("⚠️  WARNING: OPENAI_API_KEY not found in environment variables")
             print("   Set it with: export OPENAI_API_KEY='your-key-here'")
@@ -175,12 +190,10 @@ Answer based only on the provided context. If the context doesn't contain releva
             raise ValueError("SIMILARITY_THRESHOLD must be between 0 and 1")
     
     def ensure_directories(self):
-        """Create necessary directories"""
         for directory in [self.DATA_DIR, self.IMAGES_DIR, self.DOCUMENTS_DIR]:
             Path(directory).mkdir(exist_ok=True)
     
     def get_embedding_settings(self):
-        """Get embedding-related settings as a dictionary"""
         return {
             'model': self.EMBEDDING_MODEL,
             'dimension': self.EMBEDDING_DIMENSION,
@@ -188,7 +201,6 @@ Answer based only on the provided context. If the context doesn't contain releva
         }
     
     def get_ocr_settings(self):
-        """Get OCR-related settings as a dictionary"""
         return {
             'engine': self.OCR_ENGINE,
             'languages': self.OCR_LANGUAGES,
@@ -197,7 +209,6 @@ Answer based only on the provided context. If the context doesn't contain releva
         }
     
     def get_pdf_settings(self):
-        """Get PDF processing settings as a dictionary"""
         return {
             'extract_images': self.EXTRACT_IMAGES,
             'min_image_size': self.MIN_IMAGE_SIZE,

@@ -220,7 +220,7 @@ def create_ui() -> gr.Interface:
             )
         
         '''
-        with gr.Tab("📖 Instructions"):
+       with gr.Tab("📖 Instructions"):
             gr.Markdown("""
             ## 🚀 Quick Start Guide
             
@@ -244,23 +244,65 @@ def create_ui() -> gr.Interface:
             - This creates embeddings (may take a few minutes for large PDFs)
             - Once complete, start asking questions!
             
-            ### 📝 Example Questions
-            - "What are the safety procedures mentioned in chapter 3?"
-            - "How do I troubleshoot equipment failures?"
-            - "Summarize the maintenance schedule"
-            - "What are the key points about quality control?"
+            ## 🆕 New Enhanced Features
+            
+            ### 📊 Summary Queries
+            The chatbot now handles broad summary questions:
+            - **"Summarize the entire manual"**
+            - **"Give me an overview of safety procedures"**
+            - **"What are the main points in section 3?"**
+            - **"Brief summary of maintenance requirements"**
+            
+            ### 🖼️ Multimodal Support
+            Ask about images and diagrams:
+            - **"Show me the diagrams about troubleshooting"**
+            - **"What images are related to installation?"**
+            - **"Display figure 5 and explain it"**
+            - **"Are there any charts about quality control?"**
+            
+            ### 🌟 Combined Queries
+            Get comprehensive responses with both text and images:
+            - **"Summarize safety procedures and show related diagrams"**
+            - **"Overview of equipment setup with images"**
+            
+            ### 📝 Example Questions by Type
+            
+            **Standard Q&A:**
+            - "How do I troubleshoot network issues?"
+            - "What is the quality control process?"
+            - "When should maintenance be performed?"
+            
+            **Summary Queries:**
+            - "Summarize chapter 2"
+            - "Give me an overview of all safety protocols"
+            - "What are the key points about installation?"
+            
+            **Image Queries:**
+            - "Show me diagrams related to wiring"
+            - "Are there images of the control panel?"
+            - "Display troubleshooting flowcharts"
             
             ### 🔧 Features
-            - ✅ **Smart Context Retrieval**: Finds relevant sections automatically
-            - ✅ **Image OCR**: Extracts text from images and diagrams  
+            - ✅ **Smart Query Analysis**: Automatically detects question type
+            - ✅ **Context Retrieval**: Finds relevant sections automatically
+            - ✅ **Image Integration**: Shows images with captions and OCR text
+            - ✅ **Comprehensive Summaries**: Synthesizes information from multiple sections  
             - ✅ **Source Attribution**: Shows which parts of the manual were used
             - ✅ **Cost Optimized**: Uses GPT-3.5-turbo and efficient embeddings
             - ✅ **Persistent Storage**: Processes PDF once, reuses embeddings
             
-            ### 💡 Tips
-            - Be specific in your questions for better results
-            - The system only answers based on your PDF content
+            ### 💡 Tips for Best Results
+            - **Be specific** in your questions for better results
+            - **Use keywords** like "summarize", "overview", "show me", "images"
+            - **Ask about sections** by name or number if known
+            - **Combine requests** like "summarize X and show related images"
             - Check the System Info tab to verify everything is set up correctly
+            
+            ### 🎯 Query Types Detected
+            - **📝 Standard Q&A**: Specific questions with targeted answers
+            - **📊 Summary**: Broad overviews and comprehensive summaries  
+            - **🖼️ Multimodal**: Image-related queries with visual content
+            - **🌟 Comprehensive**: Combined text summaries with relevant images
             """)
        '''
     return demo

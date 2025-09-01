@@ -1,4 +1,4 @@
-# RAG Chatbot Requirements
+# Enhanced RAG Chatbot Requirements
 # Install with: pip install -r requirements.txt
 
 # Core dependencies
@@ -16,6 +16,15 @@ Pillow>=10.0.0                 # Image processing
 easyocr>=1.7.0                 # Easy OCR engine (recommended)
 pytesseract>=0.3.10            # Tesseract OCR wrapper
 
+# Vision models for multimodal support
+transformers>=4.30.0           # Hugging Face transformers (for BLIP-2)
+torch>=2.0.0                   # PyTorch (for vision models)
+torchvision>=0.15.0           # PyTorch vision utilities
+
+# Optional: CLIP support
+# ftfy>=6.1.0                  # Text fixing for CLIP
+# regex>=2023.0.0              # Advanced regex support
+
 # Text processing
 nltk>=3.8.1                    # Natural language processing
 regex>=2023.0.0                # Advanced regex support
@@ -24,10 +33,6 @@ regex>=2023.0.0                # Advanced regex support
 pathlib2>=2.3.7               # Path handling (for older Python versions)
 tqdm>=4.65.0                   # Progress bars
 python-dotenv>=1.0.0          # Environment variable loading
-
-# Optional: Enhanced text processing
-# spacy>=3.6.0                 # Advanced NLP (uncomment if needed)
-# transformers>=4.30.0         # Hugging Face transformers (for advanced features)
 
 # Development and debugging
 loguru>=0.7.0                  # Enhanced logging
@@ -39,7 +44,7 @@ json5>=0.9.0                   # JSON with comments support
 
 # System requirements notes:
 # - Python 3.8+ required
-# - For GPU acceleration, replace faiss-cpu with faiss-gpu
+# - For GPU acceleration, replace faiss-cpu with faiss-gpu and torch with torch+cuda
 # - Tesseract binary must be installed separately for pytesseract
 # - EasyOCR will download models automatically on first use
-
+# - Vision models (BLIP-2/CLIP) will download on first use (~500MB-2GB)
