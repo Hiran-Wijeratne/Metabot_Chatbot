@@ -1,0 +1,13 @@
+{
+  "pdf_path": "documents/META-SCRUB 60_User Manual.pdf",
+  "total_chunks": 102,
+  "text_chunks": 102,
+  "image_chunks": 0,
+  "processing_config": {
+    "chunk_size": 250,
+    "chunk_overlap": 50,
+    "ocr_engine": "tesseract",
+    "extract_images": true
+  },
+  "file_hash": "809d0c160226eaa22d94205d9ff4e975"
+}

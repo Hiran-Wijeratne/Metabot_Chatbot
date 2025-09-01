@@ -1,0 +1,1124 @@
+[
+  {
+    "content": "Download APP META-SCRUB 60 Automated Cleaning Robot Read carefully the META-SCRUB 60 user manual before operations This user manual is the property of METABOTS company and should only be shared with authorized personnel User Manual",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 1,
+    "chunk_id": "text_1_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "1 Introduction Smart Sensors Detection Equipped with a combination of 12 sensors, META-SCRUB 60 can identify, detect, and avoid static and dynamic obstacles in any situation, allowing it to perform safe cleaning operations Our robots are safe to use and keep people safe Equipped with a live stream camera, META-SCRUB 60 can record continuously more than a week of cleaning operations for the safety of everybody Dynamic Cleaning Operations The ability to clean close to walls is now a reality With less than 10 cm gap between our META-SCRUB 60 and walls, METABOTS push beyond existing industry standards Thanks to its unique ability to rotate, META-SCRUB 60 can deliver superior cleaning efficiency in comparison to other cleaning robots and machines, suppressing the cleaning gap between 2 cleaning passages Flexible & Simplified User Interface Using Mirror technology, the METABOTS application can be used from any type of device simultaneously Users can use their own devices to control and interact with META- SCRUB 60 Our robotic teams have developed a unique removable tablet concept never seen for cleaning robots before Users can directly interact with META-SCRUB 60 panel control or remove it for remote control",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 2,
+    "chunk_id": "text_2_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Our robotic teams have developed a unique removable tablet concept never seen for cleaning robots before Users can directly interact with META-SCRUB 60 panel control or remove it for remote control Regardless the distance you will always be connected to META-SCRUB 60 Thanks to the dual wireless connection technology, users can choose whether if they want to directly connect via a short-range connection or remotely using a long-range connection (via cloud technology) Simple & Fast Maintenance Robotic maintenance never has been made that simple META-SCRUB 60 maintenance can easily be done by one operator alone No tools and screws are needed to get access to the different technical elements of the robot • Replaceable battery for extended operation time • Auto-dumping of water tanks with a single button • Removable front bumper for easy brush replacement • Universal access key to all compartments (Tablet, Battery, Power) Recommended reading before using META-SCRUB 60 Prior using META-SCRUB 60, read carefully “Safety Precautions” (page 7) and “Cleaning Operation Precautions” (page 8) to avoid any accidents and misuse",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 2,
+    "chunk_id": "text_2_1",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "2 Packing List Before starting operations, check whether the machine package contains all the following items If items are missing, please contact your distributor List of items and accessories No Code Description Qty Note 1 612000001 META-SCRUB 60 1 Standard Packing include: Water Squeegee, Filters, Debris Filter Bag, Scrubbing Brushes, and a Battery 2 606000022 Water Squeegee 1 3 601000020 Filter (50 um) 1 4 601000021 Filter (5 um) 1 5 601000022 Debris Filter Bag 1 6 956000035 Scrubbing Brushes 3 7 606000024 Battery 1 8 611000052 User Manual 1 Packed with Host 9 611000053 Operation Training Manual 1 10 611000054 Certificates of Inspection 1 11 611000043 QR Code parking code 2 12 606000023 Dust Mop Holder 1 Packed individually in cartons 13 611000010 Dust Mop 2 14 956000034 Pads Holder 3 15 956000033 Floor Pads 3 16 606000031 Charging Station 1 Carton packaging Need additional Consumables (Water Squeegee, Filters, Debris Filter Bag, Scrubbing Brushes, Dustmop, Floor Pads), please contact your dealer or METABOTS Service Team (The delivery cost of METABOTS items and accessories by a third-party company will be at the charge of clients) META-SCRUB 60 (Automated Cleaning Robot) Dustmop Holder Dustmop Pads Holder Floor Pads Charging Station",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 3,
+    "chunk_id": "text_3_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "3 Chapter Introduction 1 1 General Outlook 12 2 Quick Start Guide 16 3 Preparations Before Usage 26 4 Login and Basic Settings 31 5 Map Management 37 6 Task Management 47 7 Manual Cleaning Operations 60 8 Settings 63 9 Maintenance 72 10 Troubleshooting 82 11 Charging Station and Integrated Charging Station 86",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 4,
+    "chunk_id": "text_4_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "4 Contents Introduction ……………………………………………………………….……… List of Items ……………………………………………………………………….… Safety Precautions ………………………………………………………….….…… Cleaning Operations Precautions …………………………………….….….…… Technical Data …………………………………………………………….………… General Outlook ………………………………………….…………….… Top View ……………………………………………………………….…………… Front View ……………………………………………………………….…………… Rear View ……………………………………………………………….…………… 2 Quick Start Guide …………………………………………….……………… Login Interface ……………………………………………………….……………… Home Page Interface …………………………………………………….………… Map Management ……………………………………………….………………… Task Management ………………………………………………….….…………… Task Operations …………….……….……………………….…………………… Task Reports ……………………………………………………………….………… Robot Status Description ………………………………………….………………… 3 Preparations Before Usage ……………………….………………… Installation of Floor Brush / Pad Holder / Mop Pad…………………………………… Fill with Clean Water and Detergent ……………………………….………………… Power Check ……………………………………………………….….…….……… Functional Check …….……………………………………………….……………… 4",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 5,
+    "chunk_id": "text_5_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Functional Check …….……………………………………………….……………… 4 Login and Basic Settings…………………………….….…………… login Interface ……………………………………………………….……………… Network Settings …………………………………………………………………… Battery ………………………………………………………………………………… Monitor …………………………………………………………….….……………… Localization ………………………………………………………………….…………… 1 2 7 9 11 12 13 14 15 16 17 18 19 21 23 24 25 26 27 28 29 30 31 32 33 34 35 36",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 5,
+    "chunk_id": "text_5_1",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Map Management ……………………………………………………… Create New Map ………………………………………………………………………… Virtual Walls ………………………………………………………………….…… Restricted Area …………………………………………………………………… Map Editor ……….……………………………………………………….………… Delete Map ………………………………………………………….………….… Map Extension ………………………………………………………………… Map Migration …………………………………………………………………… Task Management ………………………………………………………… Add Task – Area ………………………………………………….………………… Add Task – Manual Pathing ……………………………………………………… Add Task – Edge Cleaning ……………………………………………………………… Add Task - Point ……………………………………………………….…………… Edit Task …………………………………………………………………………… Scheduled Task …………………………………………………………………… Delete Task ………………………………………………………………………… Task Operations …………………………………………………………………….… 7 Manual Cleaning Operations …………………………………… Activate all Cleaning Functions ……….…………………………………………… 8 Settings …………………………………………………….…… Robot Settings …………………………………………………………………… Cleaning Settings ……………………………………………….………………… Sensor Status …………………………………………………………………… Network Settings …………………………………………………………………",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 6,
+    "chunk_id": "text_6_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Settings …………………………………………………….…… Robot Settings …………………………………………………………………… Cleaning Settings ……………………………………………….………………… Sensor Status …………………………………………………………………… Network Settings ………………………………………………………………… Error Code Details …………………………………………………………………… User Management ……………………………………….………………………… Operation Log ……………………………………………………………………… About ………………………………………………….……………………….…… 37 38 40 42 43 44 45 46 47 48 51 52 53 54 55 57 58 60 61 63 64 65 66 67 68 69 70 71",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 6,
+    "chunk_id": "text_6_1",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "6 9. Maintenance ………………………………………………….……… Consumables ………………………………………………………….….……….… Mopping Assembly Installation …………………………………………….……… Floor Brush Installation …………………………………………………….……… Battery Replacement ………………………………………………….………….… Squeegee Replacement ………….……………………….……………………… Tank Cleaning ………………………………………………….…………………… Filter Replacement ………………………………………………….………….…… 10. Troubleshooting …………………………………………….……… Troubleshooting ………………………………………………….…………………. 11. Charging Station and Integrated Charging Station ….…… Charging Station ……………………………………………………………….…… Integrated Charging Station …………………………………………………………… 72 73 74 75 76 77 80 81 82 83 86 87 88",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 7,
+    "chunk_id": "text_7_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "7 Safety Precautions The following precautions are essential to avoid any injuries or safety hazards Make sure to understand and observe these safety precautions before starting to use META-SCRUB 60 For any malfunctions, problems, or damages with META-SCRUB 60, directly contact our METABOTS service or your dealer for detailed information and assistance • To avoid fires, overheating, chemical spills, explosions, and electric shocks, follow the following safety precautions: - Do not use any other batteries, power sources or accessories not specified in the instruction manual Do not use homemade batteries, modified batteries, or damaged batteries - Do not short-circuit, disassemble, or modify the battery by yourself Do not heat or weld the battery Do not allow the battery to come into contact with fire, heat or water Avoid direct impact or collision with the battery - Do not switch the positive and negative poles of the battery - Do not charge the battery under unfavourable environment conditions Do not over-charge the battery The recommended charging time of the battery is mentioned in META-SCRUB 60 user manual",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 8,
+    "chunk_id": "text_8_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "- Do not switch the positive and negative poles of the battery - Do not charge the battery under unfavourable environment conditions Do not over-charge the battery The recommended charging time of the battery is mentioned in META-SCRUB 60 user manual - Do not insert any foreign objects into the electrical outlets of the robot such as metal plates, accessories, wires… • Smoke or oily fumes could be seen when the battery overheats Immediately unplug the battery charger from the power outlet to stop the charging process or it may cause fire hazards, damages, or electrical leakages • When the battery leaks, changes colour, deforms, or emits smoke and unusual smell, remove it immediately During the removal process, do take extra precautions to avoid burns Continuous usage of the damaged battery will cause fire hazards, electrical leaks, or burns • Avoid contact with eyes, skin or clothing when there is a battery leakage as it may cause blindness or chemical burns If the battery acid comes into contact with eyes, skin or clothing, immediately rinse the area with water (do not rub) and seek medical assistance immediately",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 8,
+    "chunk_id": "text_8_1",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "If the battery acid comes into contact with eyes, skin or clothing, immediately rinse the area with water (do not rub) and seek medical assistance immediately • Do not place any power cords near to heat sources, as it may cause deformities and melts into the insulating layers of the battery • When META-SCRUB 60 or accessories are not in use, remove the battery from the device before storing It will prevent electric shock, overheating, fire, and corrosion Warning: Please observe the following safety precautions and warnings Failing to respect safety precautions may lead to robot faulty operations and safety hazards",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 8,
+    "chunk_id": "text_8_2",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "8 Safety Precautions • Do not use META-SRUB 60 in an environment with flammable gas, flammable liquids, or flammable dust to avoid explosion or fire hazards • If the robot drops and the casing breaks and the internal parts might be exposed Do not touch the exposed parts Do not touch the parts as it may cause electric shock • Do not disassemble or modify META-SCRUB 60 by yourself Internal components with high voltage parts may cause electric shock • Do not store the machine in a dusty or humid environment Keep the battery away from any metallic objects and store it with protective covers to prevent fire hazards, overheating, electric shocks, and burns • To avoid safety hazards, follow the following safety precautions: - Ensure that power connectors are well plugged - Do not touch power plugs with wet hands - When unplugging connectors, hold on to the power connector and pull out gently Do not pull the connector holding the power cord - Do not scratch, cut, or excessively bend the power cord Do not place heavy objects on the power cord Do not bend or knot the power cord - Do not connect too many power plugs to the same power outlet - Do not use power cords with exposed or broken wires",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 9,
+    "chunk_id": "text_9_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Do not place heavy objects on the power cord Do not bend or knot the power cord - Do not connect too many power plugs to the same power outlet - Do not use power cords with exposed or broken wires • Unplug the power connector periodically and keep the power connector area clean with a dry cloth If the power connector area is dusty, damp, or greasy, it could lead to short circuits and fire hazards • Do not cover or wrap META-SCRUB 60 with a cloth It may cause deformities or fire hazards due to poor heat dissipation • Remove the battery immediately if submerged in water or in contact with metallic objects as it could lead to fire hazards, electric shocks, and burns • Do not use paint thinner, benzene, or other organic solvents to clean META- SCRUB 60 Failure to do so may cause fire hazards or health effects • Do not use or store META-SCRUB 60 in a high-temperature environment The robot might overheat which could lead to battery leakage or explosion It could also degrade the battery’s performance and shorten its lifespan • Disposal of META-SCRUB 60 battery must be done following local laws and safety regulations",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 9,
+    "chunk_id": "text_9_1",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "9 Cleaning Operation Precautions 1 Do not operate the robot under the following conditions: - Do not operate the robot without training and authorization - Do not operate the robot without reading and understanding the user manual - This robot can only be used indoors and in covered environments - Do not use the robot in an environment containing flammable gas, flammable liquids or other dangerous materials - Do not operate the robot under the influence of alcohol - Not to be used by minors or persons with mental disabilities Before robot operations: - Inspect the META-SCRUB 60 for liquid leaks - Make sure all safety equipment is in place and in good working condition - Check if consumables of META-SCRUB 60 are in good working condition (Brushes, Squeegee, Filters) - Check that the water level in the water tank meets the requirements to start cleaning operations - Check if the emergency stop button is released During robot operations: - Use only META-SCRUB 60 according to the instructions in this user manual - Do not use it on slopes of more than 5 degrees - Use extreme caution when reversing the machine - Keep children and unauthorized individuals away from the robot",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 10,
+    "chunk_id": "text_10_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "- Do not use it on slopes of more than 5 degrees - Use extreme caution when reversing the machine - Keep children and unauthorized individuals away from the robot - In case of an emergency, press the emergency stop button on top of the machine immediately Pressing the emergency stop will interrupt all the systems of META-SCRUB 60 (such as Sensors, cleaning tools, robot movements and localization) -Do not let clothing, hair, fingers, and other parts of your body near the running cleaning parts of META-SCRUB 60 -Do not let the robot pick up any items (during cleaning operations) such as stones, wastepaper, … that may block and damage META-SCRUB 60 After robot operations: - Drain the water tank and clean the recovery tank - Clean the debris filter bag and other filter elements - Clean floor brushes and water squeegee - Disconnect the robot from the power supply - If not in use for a long time, please remove the battery and place the robot in a dry and cool environment with good ventilation flow",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 10,
+    "chunk_id": "text_10_1",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "10 5. Robot maintenance: - META-SCRUB 60 is a sensitive and precise robotic device. Do not drop it or expose it to physical impacts. - META-SCRUB 60 is not waterproof and must not be exposed to rain or directly washed with water. - During maintenance, be sure to turn off the power to prevent accidents. - All reparations and modifications must be performed by trained professionals. - Replacement parts must be provided and approved manufacturer (METABOTS). - Do not make any modifications to the product that may differ or alternate the design of the cleaning operations of META-SCRUB 60. - Do not use spray or water to clean the machine when powered on. 6. Robot transportation: - The water tank must be drained before loading the robot. - For long-distance transportation, special packing (e.g. wooden boxes) must be used. - Lower the brush plate and squeegee before shutting down the machine. - Use a ramp capable of supporting the combined weight of the machine and operator. - Do not operate the machine on a slope higher than 5 degrees. - Jam the machine wheels to prevent the machine from slipping during transport.",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 11,
+    "chunk_id": "text_11_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "11 • Machine Sensors Configuration: 2 D LIDAR (x1), 3 D Cameras (x4), Front Security Camera (x1), Ultrasonic Sensors (x5), and Electronic Bumper (x1). Auto-Dumping Auto-Refills Scrubbing Operations Dustmop Operations Technical Data Automatic Charging Cleaning Width Cleaning Efficiency Brush Rotation Speed Cleaning Pressure Water Recycling Clean Water Tank Recovery Tank Battery Capacity Scrubbing Operations Dustmop Operations Charging Time Operational Speed Edge Cleaning Integrated Charging Station Gradient Weight Dimensions (L x W x H) 600 mm 2,100 m² / hour 180 rpm 25 kg Yes 50 L (3-stage filtration) 50 L Lithium Iron 100 Ah/24 v 4 hours 20 hours 4 hours 0-1 m / s < 10 cm Optional < 5° 200 kg 810 x 784 x 1100 mm",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 12,
+    "chunk_id": "text_12_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "12 1 General understanding of META-SCRUB 60 built & external parts General Outlook",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 13,
+    "chunk_id": "text_13_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "13 General Outlook Top View 4. User Interface Panel 5. Manual / Auto Mode 6. Power Button 1. Emergency Stop: When activated, the robot will stop working. Once the emergency stop is released, the robot’s localization will be lost. To initiate localization manually refer to page 36. 2. Key Power Switch: Control power on/off of the robot. 3. LED Ring Light: Display different status of the robot (details on page 25). 4. User Interface Panel: The User Interface Panel of META-SCRUB 60. 5. Manual / Auto Mode: Switch between automatic mode and manual mode. 6. Power Button: Long press this button for 5 seconds, and META-SCRUB 60 will enter into sleep mode. 1. Emergency Stop 2. Key Power Switch 3. LED Ring Light",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 14,
+    "chunk_id": "text_14_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "14 General Outlook Front View 1. Depth Camera: For obstacle avoidance. 2. Ultrasonic Sensors: For obstacle avoidance. 3. Charging Plates: For Charging Station or Integrated Station. 4. 2 D LIDAR: For obstacle avoidance and mapping. 5. Depth Camera: For obstacle avoidance. 6. Water Refills: For clean water, used with the Integrated Station. 7. Live Stream Camera: To monitor and record the real-time status of the robot. 8. LED: To display LOGO and patterns. 9. Automatic Dumping Outlet: For sewage. 10. Electronic Bumper: Provides protection from collisions and shocks. When the Bumper is triggered, the robot stops working. Release the Emergency Stop Switch to cancel the emergency stop triggered by the Bumper. 1. Depth Camera 2. Ultrasonic Sensors 3. Charging Plates 4. 2 D Lidar 5. Depth Camera 6. Water Auto-Refill 7. Live Stream Camera 8. LED Logo 9. Water Auto-Dumping 10. Electronic Bumper",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 15,
+    "chunk_id": "text_15_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "15 General Outlook Rear View 1. Water Pipe Level: Display clean water tank level. 2. Air Switch: When Air Switch is off the entire META-SCRUB 60 system (Robot Panel, Sensors & Cleaning Tools) is powered off. 3. Technical Panel: electrical cables set-up / battery replacement / Sim card slot. 4. Water Squeegee: rubber tool that collects water on the floor and pick-up with integrated suction. 5. Sewage Pipe: to dispose of the dirty water from the recovery tank. 6. Speakers: Display sound messages and background music. 7. Manual Charging & USB Port: manual battery recharging & data migration. 1. Water Pipe Level 2. Air Switch 3. Technical Panel 4. Water Squeegee 5. Sewage Pipe 6. Speakers 7. Manual Charging & USB Port Warning: 1. Trained users are allowed to operate META-SCRUB 60, however they are not qualified to disassemble and modify it. The robot warranty will not be active anymore in case of unauthorized modifications and reparations. METABOTS will not be held responsible for any damages caused in such a case. 2. Do not hit & disassemble Li DAR, ultrasonic sensor, depth camera or any other sensors. 3. Only use the official charging station or/and power cables provided by METABOTS teams.",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 16,
+    "chunk_id": "text_16_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "16 2 Introduction of META-SCRUB 60 basic cleaning operations Quick Start Guide, will allow you to start operations in less than 3 minutes Quick Start Guide",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 17,
+    "chunk_id": "text_17_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "17 Quick Start Guide User Interface Login Mobile, Tablet login 1 Start the robot with the key 2 Tap on the APP to enter the login interface Click “Network” 4 Enter Username: admin Password: 123456 Login to enter the home page interface Network: connected 3 Enter Username: admin Password: 123456 Login to enter the home page interface Login Interface",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 18,
+    "chunk_id": "text_18_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Home Page Interface (Icon Information)",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 19,
+    "chunk_id": "text_19_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Tap [ ] to open main menu Select Map Management Go to the Map Management page Tap Create New Map Go to the Mapping page Tap [ ] to activate the Virtual Joystick Map Management 4 3 1 2",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 20,
+    "chunk_id": "text_20_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Control robot movements by using the “Virtual Joystick” Map will gradually appear while META-SCRUB 60 scan the cleaning area Use blue arc (around “Virtual Joystick”) to adjust the robot speed Tap “Save” when once the map is sufficiently detailed Enter map name and tap Yes The map is now created Map Management 4 3 2 1",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 21,
+    "chunk_id": "text_21_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Tap [ ] to open main menu Select Task Management Tap Add Task Task Management 3 1 2",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 22,
+    "chunk_id": "text_22_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Tap [Area] to draw a cleaning area Tap [ ] to place the starting point of the cleaning area, slide the map, tap [ ] again to confirm the line, slide the map, and tap [ ] one more time to complete the cleaning area Tap [ ] to return to the previous step Tap [ ] to confirm the cleaning area Select a Cleaning Mode (High Scrubbing Operations, Low Scrubbing Operations, Dust Mopping) Tap [Cleaning Repetition] to enter the number of cleaning cycles required Tap [Save], enter the task name, then tap Yes Task Management 7 5 6 1 2 3 4",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 23,
+    "chunk_id": "text_23_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Select the [Map Name] to be cleaned Select the [Task Name] to be cleaned Tap [Select Task] Tap [ ] to start the Cleaning Task 5.Task Operations 4 1 2 3",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 24,
+    "chunk_id": "text_24_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Cleaning Task is in process Once cleaning operations completed, the “Report Details” will be automatically displayed Task Reports 2 1 2",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 25,
+    "chunk_id": "text_25_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Robot Status Description LED Ring Light Status Robot Status Standby At Work Task Paused Turn Left Turn Right Low Battery Low Water Level High Sewage Level Charging Robot Exception Emergency Stop Press the Brake Release Button Displayed Light Colours Fading Blue Continuous Blue Flashing Blue Left Yellow Turn Signal Right Yellow Turn Signal Fading Yellow Continuous Yellow Continuous Yellow Fading Green Continuous Red Flashing Red Flashing Yellow",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 26,
+    "chunk_id": "text_26_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "26 3 Recommended preparations that have to be fulfilled before launching META-SCRUB 60 cleaning operations Preparations Before Usage",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 27,
+    "chunk_id": "text_27_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "27 Preparations Before Usage How to set up the Floor Brushes / Pad Holder / Mop Pad before cleaning operations? 1. Pull-out the front bumper. 2. Replace the Floor Brushes - Pull down and rotate to remove. - Push up to set up. 3. Replace the Pad Holder - Pull down and rotate to remove. - Push up to set up. 4. Attach the Dust Mopping Tool at the Water Squeegee level. Floor Type Consumables Concrete Terrazzo Epoxy Wooden Ceramic Tile Marble Scrubbing Brushes 2-3 Months 2-3 Months Not Applicable Not Applicable 8-10 Months Not Applicable Floor Pads (Red) 1 Month 1 Month Not Applicable Not Applicable 1 Month Not Applicable Floor Pads (White) 1 Month 1 Month 1 Month Not Applicable 1 Month 1 Month Floor Pads (Cloth) Not Applicable 0.5-1 Month 1 Month 1 Month 1 Month 1 Month Dust Mop Not Applicable 1 Month 1 Month 1 Month 1 Month 1 Month Installation set-up for Floor Brushes / Pads Holder / Dust Mopping Tool",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 28,
+    "chunk_id": "text_28_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "28 Ensure that clean water level is sufficient to perform cleaning operations Flip the top lid of the META-SCRUB 60 Open the lid of Clean Water Tank Clean Water Tank (50 Liters maximum) Detergent Tank (2 Liters maximum) Water level displayed of the side of the robot should not exceed the number ”1” (1 = full tank capacity) Fill-in only with Clean Water (Mandatory) and Low Foam Detergent (optional)",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 29,
+    "chunk_id": "text_29_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "29 Preparations Before Usage Make sure that the Battery Power Cord is well connected and turn on the Main Switch before starting META-SCRUB 60. Insert the key and turn left to remove the Technical Back Panel. ① Insert the Battery Cord. ② Turn on the Main Switch. Insert & turn the key and switch it to the ON position. Robot top LED ring will light up and the robot tablet panel will turn on. Wait about approximately 20 seconds and starting music will be played. Your META-SCRUB 60 unit is now ready for operations. Power Check Before turning on the Main Switch, make sure that the Battery Power Cord is well connected, in order to avoid power shortage and ensure stable and smooth cleaning operations. 1 2",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 30,
+    "chunk_id": "text_30_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "30 1. Enter your username and password. Once the power-up sound is displayed, you can log in to META-SCRUB 60 user interface. 2. Press the Emergency Stop button (LED ring light will be flashing red colour) and release the Emergency Stop button (LED with blue flashing). The Emergency Stop button works properly. 3. Press and hold the Power Button for 5 seconds, the robot will now enter into sleeping mode, press and hold again for 5 seconds to turn back on the robot. 4. Press the Manual Mode Button to switch to Manual Mode. Bring over the META-SCRUB 60 to the cleaning area and start cleaning operations. Functional Check Emergency Stop Manual / Auto Mode Sleeping Mode User Interface Panel",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 31,
+    "chunk_id": "text_31_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "31 4 General knowledge about login, user interface navigation, functionalities and basic settings Login and Basic Settings",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 32,
+    "chunk_id": "text_32_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "32 Login and Basic Settings To log in with your mobile phone, please scan the QR code to download METABOTS APP Picture 1 Enter the username (admin) and password (123456) to log in to the APP interface Picture 2 Login Interface Administrators and users have different login accounts Default username and password will be provided and can be edited afterward",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 33,
+    "chunk_id": "text_33_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "33 SIM card is required to activate 4 G network connection Tap [ ] to enter the Network Setting page Tap WLAN and select a wireless network Tap 4 G to connect to the 4 G network (Note: to design Adjust the pointing finger to 4 G icon When these 2 icons light up, Robot is fully connected to networks Network Settings Do not touch the screen with any sharp objects which might causes scratches on the touch screen",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 34,
+    "chunk_id": "text_34_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "34 Make sure that the battery is above 80% before starting Cleaning Operation. Tap the User Interface [ ] to open the battery information details. Tap [ ] again to close the information details. Battery Maintenance • META-SCRUB 60 battery level will not be full upon delivery. Make sure that battery level is full before starting your first cleaning operations. • Recharge the battery regularly in order for robot to be ready to use. During storage, the battery level will gradually discharge overtime and lose power. • If using charging cable, unplug it once the battery level is full to prevent overcharge. • When the robot is not going to be used for a long time, unplug charging cable and power off main switch.",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 35,
+    "chunk_id": "text_35_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "35 Live Stream Camera can continuously record more than a week of cleaning operations Tap [ ] to open Live Stream Camera Double-tap on Live Stream Camera monitor to zoom in and out Tap [ ] Live Stream Camera monitor screen to open playback function Tap [ ] to download Live Stream Camera recording on the surveillance playback screen Tap [ ] to select the playback date Live Stream Camera",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 36,
+    "chunk_id": "text_36_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "36 Initialize the robot’s location through QR Code, Charging Station, Map Position. Tap [ ] to enter the Robot Localization page. Auto-localization: Push the robot to the front of the QR Code or Charging Station. Manual Localization: Match and align map details (blue colour) and robot sensors (red colour) by sliding the map. Tap the “Initiate Localization” button. Once the localization is successful, user interface will automatically return to “home page”. Localization The robot will lose its location in the following situations: 1. Emergency Stop Button is activated. 2. The Power Supply is depleted. 3. The Power Button is turned off. 4. The Key Power is turned off. When the Robot Location is lost (during cleaning operations), initiate localization manually; otherwise, the robot will not be able to resume cleaning operations.",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 37,
+    "chunk_id": "text_37_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "37 5 Create a new map, edit map, extend map, and map migration Map Management",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 38,
+    "chunk_id": "text_38_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "38 Map Management Users can choose two mapping methods, 1. Use the APP to control the robot to move. 2. Switch the robot to manual mode and push the robot to scan a new map. 1. Tap [ ] to open the main menu (1), and select [Map Management] (2). 2. Tap [Create New Map] (3). Tap [ ] to enable the “Virtual Joystick”(4). 3. Slide your finger on the blue ruler (5) to adjust the Robot’s speed. 5 • Activating the “Manual / Auto” button will allow the robotic operator to manually control the robot by pushing it to create a new map (under manual mode). • Disactivating the “Manual / Auto” button will allow the robotic operator to remotely control the robot by using METABOTS app to create a new map. 1 2 4 3 Create New Map 5",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 39,
+    "chunk_id": "text_39_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "39 6 7 For optimum map details, the robotic operator needs to push META-SCRUB 60 along the wall (not less than 50 cm) clockwise and anti-clockwise. I t will increase the number of points of reference and reduce the blind spot area to provide stable localization during cleaning operations. Use a map name that can be easily understandable and recognizable organization and easy to retrieve. (e.g., a combination of date and name of the place; 0922 Main Hall). 4. Hold your finger on the white dot (6) in the center of the “Virtual Joystick”, and slide your finger up, down, left, and right to control the robot to walk, and the robot will automatically scan the trajectory drawing of the cleaning area in the same time. 5. After scanning, the map shown in (7) will be displayed. Tap [Save] to confirm the map. Enter the map name and tap Yes. 6. After the map is created, you can view (8) for map information. Create New Map 6 7 8",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 40,
+    "chunk_id": "text_40_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "40 Multiple virtual walls can be created on the same map. It is recommended to save after the creation of each virtual wall to ease map adjustments and future modifications. Specific surface and object materials need specific marking to be clearly identified by META-SCRUB 60 sensors such as: lights-transmitting, fragile and irregular objects. As well as glass walls, mirrors, escalators, steps, carpet floors… 1. In the map management menu, tap [ ] to enter the map editing screen. 2. Tap [Virtual Walls], press your finger on the map, drag the map up, down, left and right to align the eyedrop [ ], and tap [ ] to mark the starting point of the virtual wall. 3. Swipe up the map and click [ ] again to mark the end of the virtual wall. Virtual Walls",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 41,
+    "chunk_id": "text_41_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "41 Tips: Zoom-in: Swipe both fingers outward on the map simultaneously Zoom-out: Swipe both fingers inward on the map simultaneously Rotate: Turn both fingers on the map on the map simultaneously Tap [Save] to complete the virtual wall drawing Repeat the same steps to draw multiple virtual walls Virtual Walls Rotate Zoom In Zoom Out",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 42,
+    "chunk_id": "text_42_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "42 Restricted areas allow your robot to pass through without using cleaning tools. Restricted area must be smaller than the size of your map. 1. In the map management menu, tap [ ] to enter the map editing screen. 2. Tap [Restricted Area], hold your finger on the map, drag the map up, down, left and right to align the “eyedrop” [ ], tap [ ] to mark the starting point of the restricted area, then, slide the map up, tap [ ] to mark the second point of the area. 3. Swipe the map to the left and tap [ ] again to mark the 3 rd point in the area. 4. Swipe down on the map and tap [ ] again to mark the 4 th point of you restricted area. 5. Tap [Save] to complete your restricted area. Restricted Area",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 43,
+    "chunk_id": "text_43_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "43 Manually edit map, remove obstacles, add / remove cleanable areas. 1. In the map management menu, tap [ ] to enter the map edition screen. 2. Tap [ ], to use the eraser tool: - Blue eraser tool allow you to add cleanable area and to remove obstacles on the map. - White Eraser tool will allow you to remove cleanable area and to remove obstacles on the map. 3. Slide the square cursor up and down to add a map, tap [ + ] to zoom in, tap [ - ] to zoom out, tap [ ] to return to the previous step, and tap [ ] to confirm. 4. Tap the [ ] Eraser and slide the cursor up and down to delete the map. 5. Tap [ ] to confirm and click [Save]. Map Edition",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 44,
+    "chunk_id": "text_44_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "44 Maps that have been uploaded to the server can be re-downloaded on the map migration screen after deletion On the map management interface, select the map to be deleted and tap [ ] Tap [Yes] to delete the map",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 45,
+    "chunk_id": "text_45_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "45 You can increase the possible cleanable area using Map Extension Menu In map management menu, tap [Extended Map] to enter the map which is need to be extended Use the “Virtual Joystick” to control the robot The robot will automatically scan and extend the map The Extended Map is complete Extended Map",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 46,
+    "chunk_id": "text_46_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "On the map management menu, tap [Map Migration] In the Robot Map List, select a [Map] and click [Upload Map to Server] Enter the Map Migration menu In the Server Map List, select a [Map] and tap [Download Map to Robot] You can also store the map in a Thumb Drive, insert the Thumb Drive into the USB port of the robot's (next to the charging port cover) Tap the Server Map List [ ] to switch to the USB Map List Upload or download maps to a Thumb Drive Map Migration",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 47,
+    "chunk_id": "text_47_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "47 6 Task Creation, Task Edition and Task Operations Task Management",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 48,
+    "chunk_id": "text_48_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "48 Task Management Multiple cleaning tasks can be created on the same map Tap [ ] to open the main menu bar (1), select [Task Management] (2) Tap [Map] (3) and select [Add Task] (4) Enter the new task screen Tap [Area] (5), drag the map to align [ ], tap [ ] to mark the starting point of the cleaning area Add Task - Area 5 4 3 1 2",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 49,
+    "chunk_id": "text_49_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "49 Once the areas are completed, META-SCRUB 60 algorithm will generate automatically the cleaning path for optimal operations Swipe the map to the left and tap [ ] again to mark the 2 nd point of the cleaning area Swipe up on the map and tap [ ] again to mark the 3 rd point of the cleaning area Swipe the map to the right and tap [ ] again to mark the 4 th point of the cleaning area Tap [Cleaning Repetition] (6) Enter the number of cleaning repetitions and click [ ] Add Task - Area 6",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 50,
+    "chunk_id": "text_50_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "50 There are three cleaning pre-settings modes that can be selected • High: High-level scrubbing operations • Low: Low-level scrubbing operations • Mopping: Dust mopping operations Refer to [cleaning mode setting] for cleaning mode modification Tap [ ] to confirm the area (7), select the Cleaning Mode (8), and tap [Save] (9) Enter the task name and tap Yes Once the new cleaning area is completed, META_SCRUB 60 algorithm will generate automatically the best cleaning route for optimal operations Add Task - Area 7 9 8",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 51,
+    "chunk_id": "text_51_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "51 Manual Pathing allows the robotic operator to manually draw the cleaning path you wish META- SCRUB 60 to take. Cleaning lines are suitable for small and narrow areas where the cleaning surface space is limited. 1. Tap [Line] on the new task screen. 2. Tap [ ] to mark the starting point of the route, slide the map to the left, and tap [ ] to mark the 2 nd point of the route. 3. Swipe up on the map, tap [ ] again to mark the third point of the route, tap [ ](1) to confirm the route, and tap [Save](2). 4. Enter the task name and tap Yes. (If you do not wish to save your modifications under a different cleaning task just tap yes without changing the name). Add Task - Line 1 2 2",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 52,
+    "chunk_id": "text_52_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "52 Allow META-SCRUB 60 to clean as close as 10 cm from the wall of the cleaning area Also named edge cleaning On the Add Task screen, tap [Alongwall] Drag the map edge to align [ ] Tap [ ] to create a line along the wall (Edge Cleaning) Tap [ ] (1) to confirm the task and tap [Save] Enter the task name and tap Yes (If you do not wish to save your modifications under a different cleaning task just tap yes without changing the name Add Task – Edge Cleaning 1 2",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 53,
+    "chunk_id": "text_53_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "53 Designates the starting point for the robot when placed before cleaning operations or Designates an endpoint for the robot when placed after cleaning operations Tap [Point] in the Add Task screen Tap [ ] to mark the target point, slide the map to confirm the direction, tap [ ] (1) to confirm, and tap [Save] (2) Enter the task name and tap Yes (If you do not wish to save your modifications under a different cleaning task just tap yes without changing the name Task list (1), Task Information Details (2) Add Task - Point 1 2 1 2",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 54,
+    "chunk_id": "text_54_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "54 A cleaning task can gather multiple cleaning jobs together, such as: cleaning areas, along wall cleaning, line cleaning. Under “Edit Task” screen user will be able to modify, delete or change the priority order of the different cleaning tasks. 1. Tap [ ] to open the main menu bar (1), and select [Task Management] (2). 2. Select the task you want to modify (3), and tap [Edit Task] (4). 3. Long tap on the task you want to edit to display the pop-up edit menu (5). 4. Change the task name or keep the original name and click Yes. Edit Task 1 2 3 4 Edit: Modify an existing task. Delete: Delete an existing task. ←| Insert: Insert a new task before an existing task. Insert |→ : Insert a new task after the existing task. Forward: Increase the task queue order. Backward: Decrease the task queue order. 5",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 55,
+    "chunk_id": "text_55_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "55 Scheduled Task allows META-SCRUB 60 robot to start cleaning operations automatically following pre-settings timing On the Task Management screen, tap [Scheduled Task] (1) On the Scheduled Task screen, tap [ + ] (2) to add a new Scheduled Task Select the Map (3), select the Cleaning Task (4), select the Start Time (5), and select the number of Repetitions (6) Tap [Save] to complete the reservation Swipe up or down the Map List to select a map Scheduled Task 1 2 3 4 5 6",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 56,
+    "chunk_id": "text_56_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Swipe up or down on the Task List and select the task to be cleaned Swipe up or down to select the Start Time to be scheduled Swipe up or down to select the frequency of the scheduled cleaning over the time Tap [ ] to modify the scheduled task (7) Tap [ ] to delete the scheduled task (8) Scheduled Task 7 8",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 57,
+    "chunk_id": "text_57_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Tap [ ] to open the main menu bar (1), select [Task Management] (2) Select the task to be deleted (3) Tap on [Delete task] (4) Delete Task 3 1 2 4",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 58,
+    "chunk_id": "text_58_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "58 Before launching cleaning operations, release the “Manual Mode Button” and switch to automatic mode Tap [Switch Task] (1) on the Home Screen change the map where the META- SCRUB 60 is located Select your Map (2) Select the task to be executed (3), tap [Select Task] (4) Tap [ ] to start the Cleaning Task Task Operations 3 4 2 1",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 59,
+    "chunk_id": "text_59_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Surface in m2 of the map cleanable area and cleaning time (5) The Time Progress Bar (6), tap [Cancel Task] to cancel the current cleaning task (7) Once the cleaning task is completed, the task report will be automatically generated and uploaded to the server Access to Cleaning Task Reports from the main menu bar [Task Reports] Task Operations 6 7 5",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 60,
+    "chunk_id": "text_60_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "60 7 META-SCRUB 60 basic cleaning setting and operations under in manual mode Manual Cleaning O",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 61,
+    "chunk_id": "text_61_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "61 Manual Cleaning Operations 1 Tap [ ] to open the main menu (1), select [Manual Mode] (2) Activate all cleaning functions(3) [ ] Low Scrubbing Speed, [ ] Medium Scrubbing Speed, [ ] High Scrubbing Speed, Tap again to turn off Scrubbing Brushes [ ] Low Suction Power, [ ] Medium Suction Power, [ ] High Suction Power, Tap again to turn off the Suction Motor [ ] Set Squeegee down, [ ] Set Squeegee up [ ] Set Brushes down, [ ] Set Brushes up Activate All Cleaning Functions 1 2 3",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 62,
+    "chunk_id": "text_62_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "62 Manual Cleaning Operations 7. [ ] Small flow of water, [ ] Medium flow of water, [ ] Large flow of water, Click again to turn off the flow of clean water. 8. [ ] Small flow of detergent, [ ] Medium flow of detergent, [ ] Large flow of detergent, Click again to turn off the flow of detergent. 9. [ON] Turn on Auto Drainage, [OFF] Turn off Auto Drainage. 11. [ON] Turn on auto Water Refills, [OFF] Turn off auto Water Refills. (Auto Water Refills require the Support of an Integrated Charging Station) 10. Click [OK] to start discharging sewage. 12. [ON] Turn on Water Recycling, [OFF] Turn off Water Recycling. Activate All Cleaning Functions",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 63,
+    "chunk_id": "text_63_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "63 8 Robot Settings, Cleaning Settings, and other information details about your META-SCRUB 60",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 64,
+    "chunk_id": "text_64_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "64 Settings 1 Tap [ ] to open the main menu (1), select [Settings] (2) Tap [Robot Settings] (3) Cleaning Speed (4) Robot Speed (5) Revisit Cleaning (6) Remote Obstacle Avoidance (7) Station Detection (8) Debug mode 4 (9) Camera Calibration (10) Charing Station Calibration 5 (11) Control Mode (Virtual Joystick) (12) Water Auto Refills Swipe left or right to adjust the displayed volume level Robot Settings 3 4 5 6 7 8 1 2 9 10 11 12",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 65,
+    "chunk_id": "text_65_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Tap [ ] to open the main menu (1), select [Settings] (2) Tap [Cleaning Settings] (3) Cleaning pre-setting mode 1 (4) Cleaning pre-setting mode 2 (5) Cleaning pre-setting mode 3 (6) Low/medium / high Scrubbing Speed (7) Low/medium / high Suction Power (8) Small/medium / large water flow (9) Small/medium / large detergent flow Enter cleaning pre-settings name and tap [Yes] (10) Long tap on mode name to edit the name of the cleaning pre-settings Default cleaning modes are now completed Cleaning Settings 2 1 10 3 4 5 6 7 8 9 1 2",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 66,
+    "chunk_id": "text_66_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Ultrasonic sensors are active Ultrasonic sensors are not active Sensor Status 1 Tap [ ] to open the main menu (1), select [Settings] (2) Tap [Sensor Status] ULTRA 2 ULTRA 4 ULTRA 0 ULTRA 3 ULTRA 1 1 2",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 67,
+    "chunk_id": "text_67_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Tap [ ] to open the main menu (1), select [Settings] (2) Tap [Network Settings] Tap WLAN and select a wireless network Tap 4 G to connect to the 4 G network Both network connection type can be opened at the same time [ ] The icon lights up and the network connection is active Network Settings 1 2",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 68,
+    "chunk_id": "text_68_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "68 1. Home page displays the [ ] icon, which indicates that META-SRCUB60 robot encounter an Error. Tap [ ] icon to display more information details. 2. (1) Error Code. (2) Error Description. 3. Tap [Error Code Details] to get detailed information. Error Code Details When the robot falls under faulty status or is unable to operate properly, stops all cleaning operations immediately, and report to your manager for assistance. Therefore, the manager will contact METABOTS service team (or authorized dealer). Assistance will be delivered remotely first, then on-site by sending professional technicians to troubleshoot and solve the issue. Unauthorized interventions or modifications by an unauthorized person will not fall under the META-SCRUB 60 warranty scope. 1 2",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 69,
+    "chunk_id": "text_69_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Tap [ ] to open the main menu (1), and select [Settings] (2) Tap [User Management] Tap [Add] to create a new user account Enter a new username and password Then select the user right (Admin or user) Select a user account and tap [Edit] to modify its details Modify the username, password, and user rights Select an account and tap [Delete] 8 Tap Yes to delete the account User Management 1 2",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 70,
+    "chunk_id": "text_70_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "On the setting screen, select [Operation Log] Operation Log batch download Mapping Packet batch download Task Packet batch download Operation Log",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 71,
+    "chunk_id": "text_71_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "On the settings screen, select [About] About Details: (1) Product serial number (2) Storage Capacity status (3) APP Version information (4) MCU Version information (5) NCU Version information (6) APP download QR code Tap [APP Version] to upgrade the APP to the latest version Tap [MCU/NCU] to enter the online update Tap the latest version to do the update About 1 6 4 2 3 5",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 72,
+    "chunk_id": "text_72_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "72 9 Different parts of META-SCRUB 60 and to properly maintain them Maintenance",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 73,
+    "chunk_id": "text_73_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "73 Maintenance Floor Consumables Concrete Terrazzo Epoxy Wooden Ceramic Tile Marble Scrubbing Brushes 2-3 Months 2-3 Months Not Applicable Not Applicable 8-10 Months Not Applicable Floor Pads (Red) 1 Month 1 Month Not Applicable Not Applicable 1 Month Not Applicable Floor Pads (White) 1 Month 1 Month 1 Month Not Applicable 1 Month 1 Month Floor Pads (Cloth) Not Applicable 0.5-1 Month 1 Month 1 Month 1 Month 1 Month Mop Pad Not Applicable 1 Month 1 Month 1 Month 1 Month 1 Month Squeegee 1 Month 1 Month 3-4 Months 6-8 Months 6-8 Months 6-8 Months Water Filters 0.5-1 Month 0.5-1 Month 1-2 Months 1-3 Months 1-3 Months 1-3 Months Debris Filter Bag 0.5-1 Month 1-2 Months 1-3 Months 1-3 Months 1-3 Months 1-3 Months Consumables (Replacement)",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 74,
+    "chunk_id": "text_74_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "74 1 Remove the 2 screws from the squeegee attachment 2 Slide the Dust Mop tool under the squeegee 3 Lift-up the Dust Mop and insert it in the bayonet slots 4 Tighten the screws gently 5 The Dust Mop tools is now installed Dust Mop Installation",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 75,
+    "chunk_id": "text_75_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "75 1 2 Pull-out the front bumper Placed the Front Bumper aside together with the sensor wire connector 3 4 Pull down the Brushes (x 3 pcs) Push up the Brushes (x 3 pcs) 6 Once clipped to the tool adaptor, Replace the Pad Holder (same scrubbing brushes are fulling installed 7 8 Adjust connecting wire into the frame Place back the Front Bumper and push-in Floor Brushes Installation 5",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 76,
+    "chunk_id": "text_76_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "76 1 2 Use the key to open the back Technical Panel Unplug the battery cables (2 pcs) 3 4 Pull-out the battery 5 6 Push the battery in 7 8 Plug in the battery cables (2 pcs) Battery Replacement Position the Back Technical Panel and lock it using the key Push-up latch locks (2 pcs) to lock the battery Push down the latch locks (2 pcs) to release the battery",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 77,
+    "chunk_id": "text_77_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "77 7 8 Loosen the screw the on top of the Squeegee Use a hex wrench to loosen the screw on the side 1 2 Under Manual Mode, lower the Squeegee The Squeegee is now lowered 3 4 Pull-out the Squeegee Tool 5 6 Pull out the suction pipe Squeegee Replacement Remove the suction hose clamp with a screwdriver Loosen the hose clamp with a screwdriver",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 78,
+    "chunk_id": "text_78_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "78 9 10 11 12 Dispose of the old Squeegee Rubber Insert the new Front Squeegee Rubber 13 14 Align and fix into the Squeegee holder 15 16 Remove and separate all the parts from the Squeegee tool Separate the Squeegee attachment from the Squeegee rubber Align and insert the Rear Squeegee Rubber Align and fix into the Squeegee holder Tighten with the Squeegee hex wrench",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 79,
+    "chunk_id": "text_79_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "79 17 18 Put all the screws back Tighten the fixing nuts at both ends 19 20 Insert the suction pipe back Tighten the suction hose clamp 21 22 Hold your fingers against the screw heads from the bottom 23 24 Tighten the retaining nut Align bayonet and push into the Squeegee Holder Lift-up the Squeegee tool (using the robot panel interface – under Manual Mode screen)",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 80,
+    "chunk_id": "text_80_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "80 1 2 Drain the Recovery Tank 3 4 5 6 7 8 8 Reinstall the Filter Debris Bag cover User water to flush and clean the bottom of the Recovery Tank Remove the Debris Filter Bag and other filtration elements Continue wash the surroundings walls of the Recovery Tank Align Clean separately the Debris Filter Bag, cover and other filtration elements Reinstall the different filtration elements Reinstall the Debris Filter Bag and cover",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 81,
+    "chunk_id": "text_81_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "81 1 3 2 4 Remove the two Filter plastic covers Take out the two used Filter inner tubes 5 6 7 8 Filter Replacement Filter elements need to be replaced once the recommended usage time has been reached Remove the old Debris Filter Bag and cover Install new 1 st Inner Filter tube (5 microns) and filter plastic cover Install 2 nd Inner Filter tube (50 microns) and filter plastic cover Set-up the new Debris Filter Bag and cover Filter Replacement is complete",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 82,
+    "chunk_id": "text_82_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "82 10 Troubleshooting methods and solutions to resolve robot error status during cleaning operations Troubleshooting",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 83,
+    "chunk_id": "text_83_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "83 Troubleshooting Issue Cause Solution Robot do not turn on Emergency stop Activated Release the emergency stop button Low battery Level Recharge the battery Battery connection failure Open the technical panel and ensure that battery power cables are connected properly Air Switch turned off Open the Technical Panel and turn on the Air Switch Power Switch failure Please contact METABOTS service team Battery failure Please contact METABOTS service team Robot failure Please contact METABOTS service team The charging Station do not turn on AC plug is not connected to the power supply Plug the charging station to AC plug to power supply Charging Station failure Please contact METABOTS service team Poor scrubbing operations Brushes/pads worn out Replace with new brushes or pads Cleaning consumables are not suitable for the floor Replace current cleaning tools to suitable ones Brush Assembly cannot be lowered Please contact METABOTS service team Insufficient power of the motor brush Under Cleaning Mode Setting, change to High Poor water suction operations Suction Motor is underpowered Under Cleaning Mode Setting, change to High Clean Water Tank cover leakage Check whether the cover is in place and if the seal is damaged Suction Pipe leakage",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 84,
+    "chunk_id": "text_84_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Poor water suction operations Suction Motor is underpowered Under Cleaning Mode Setting, change to High Clean Water Tank cover leakage Check whether the cover is in place and if the seal is damaged Suction Pipe leakage Check if the Suction Pipe is well positioned or damaged Drain Pipe leakage Check whether the Drainpipe cover is covered properly or damaged Recovery Tank full Drain the Recovery Tank Squeegee is not adjusted properly Adjust the water Squeegee angle and Universal Wheel height The filter of the Suction Vent is blocked Open the Recovery Tank and clean the Debris Filter Bag The Float Ball in the Suction Vent is blocked Open the Recovery Tank, remove the filter and take out the Float Ball Squeegee Rubber is worn out Flip the Rubber or replace it with a new one Clean up sundries Suction motor failure Please contact METABOTS service team",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 84,
+    "chunk_id": "text_84_1",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "84 Troubleshooting Issue Cause Solution Poor water flow during cleaning operations Water flow level is set up at small Under Cleaning Mode Setting, change to Small Clean Water Tank is empty, or the level is low Fill in the Clean Water Tank The Filter of the Clean Water Tank is blocked Clean the Clean Water Tank Filter Water Outlet is blocked Open the front cover of the machine and check the Water Outlet and Water Outlet Pipe Water Pump and Valve failure Please contact METABOTS service team Poor Mopping operations Dustmop worm out Replace with a new Dustmop Dustmop accumulates debris Clean up Dustmop The robot frequently stops and triggers obstacle avoidance Environment with bright lights (natural or artificial) Turn off interference sources or mark interference areas Highly reflective walls and floor surfaces Please contact METABOTS service team The radar is dirty Gently wipe the surface of the radar, clean with a dry soft cloth Robot or User Interface crash IPC process error Restart the META-SCRUB 60 The machine status is marked as “collision” Robot bumper collision triggered Press and release emergency stop to resume operations Depth camera exception The USB data cable is not inserted correctly or became loose",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 85,
+    "chunk_id": "text_85_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "IPC process error Restart the META-SCRUB 60 The machine status is marked as “collision” Robot bumper collision triggered Press and release emergency stop to resume operations Depth camera exception The USB data cable is not inserted correctly or became loose Check whether the two ends of the USB data cable are plugged in correctly Restart the META-SCRUB 60 If it cannot be fixed, please contact METABOTS service team No data at the communication port The communication line is loose or not active Restart META-SCRUB 60 and check if the robot can return to normal status for cleaning operations If not please contact METABOTS service team Laser radar abnormal or no data LIDAR power supply is abnormal or communication data error Use a mobile phone lens to film whether there is red light in the light position of the Lidar If there is no red light, check whether the power plug is loose or not: - if there is red light, check whether the network cable is well connected - if there is red light, please contact METABOTS service team Wrong signal for left and right driver The communication cable is not plugged in properly to the motor wheel",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 85,
+    "chunk_id": "text_85_1",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "- if there is red light, please contact METABOTS service team Wrong signal for left and right driver The communication cable is not plugged in properly to the motor wheel Check whether the communication cable is plugged in properly, if the error message remains, please contact METABOTS service team",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 85,
+    "chunk_id": "text_85_2",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "85 Troubleshooting Issue Cause Solution Robot is starting cleaning operations, but the cleaning tools are not activated Debug mode is enabled Under \"Robot Settings\" check is \"Debug Mode\" is turned off The cleaning mode setting are incorrect Check that the cleaning mode configurations for the selected task are correct (under \"Cleaning Task Management\" and \"Cleaning Settings\") During map creation/record ing it suddenly disappears The Robot Emergency Stop Button was ON Release the Emergency Stop Button, cancel the robot current Task and redraw the map Robot Localization failed/lost After pressing the Emergency Stop Button and moving the robot, the Localization is lost Tap the GPS icon at the top to initiate manual localization of the robot The robot is unable to return to the Charging Station The Charging Station has been moved and the positioning is lost Make the robot and Charging Station plates touch each other and maintain the position Under \"Robot Settings\" tap \"Station Calibration\" The QR code of the Charging Station is hidden or not visible enough Remove obstacles that are blocking the QR code Make sure that the QR code is highlighted properly Station Calibration failed",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 86,
+    "chunk_id": "text_86_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Under \"Robot Settings\" tap \"Station Calibration\" The QR code of the Charging Station is hidden or not visible enough Remove obstacles that are blocking the QR code Make sure that the QR code is highlighted properly Station Calibration failed Make the robot and Charging Station plates touch each other and maintain the position Under \"Robot Settings\" tap \"Station Calibration\" The target area is unreachable by META- SCRUB 60 Robot Localization error Tap the GPS icon at the top of the screen and adjust the localization manually Under Manual Mode, after activating all cleaning functions, the robot cannot be pushed The Auto / Manual Button on robot panel is not turned on Press the Auto / Manual Button to switch from Auto Cleaning Mode to Manual Cleaning Mode",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 86,
+    "chunk_id": "text_86_1",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "86 11 Technical deployment requirements for Charging Station and Integrated Charging Station Charging Station and Integrated Charging Station",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 87,
+    "chunk_id": "text_87_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "87 Charging Station and Integrated Charging Station Charging Station deployment: 1. The charging Station should be placed on a flat floor and fixed solidly to the wall. 2. Do not place any object or obstacles within 100 cm left and right and 200 cm in front of the Station. 3. An AC power socket is required close to the Charging Station. (Minimum power requirement: 1300 w). 4. The Charging Station comes with a 100 cm long power cord. The AC power socket should be within 100 cm of the Charging Station. 5. Avoid direct sunlight and sun exposure in order for META-SCRUB 60 to initialize localization, depart from the Charging Station and return to Charging Station by scanning the QR code. 6. The charging station must be fixed to the wall and positioned on flat ground for optimal results (to get charging plate alignment). Failing to do so might cause hazards during or after cleaning operations, such as automatic-localization loss, fail return to the charging station, and uneven charging cycle of the robot. 100 cm 100 cm 200 cm AC Power Socket Charging Station",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 88,
+    "chunk_id": "text_88_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "88 Charging Station and Integrated Charging Station Integrated Charging Station deployment: 1 The Integrated Charging Station should be placed on a flat floor and fixed solidly to the wall Do not place objects within 100 cm left and right and 200 cm in front of the Integrated Charging Station An AC power socket is required close to the Charging Station power requirement: 1300 w) The Integrated Charging Station comes with a 100 cm long power cord The AC power socket should be within 100 cm of the Integrated Charging Station A water evacuation is required to be connected to the 40 cm black flexible recovery tank pipe to collect sewage water from META-SCRUB 60 A clean water connection supply is required to be connected to Integrated Charging Station refills META- SCRUB 60 (By default, a 5-meter-long water pipe is provided together with the Integrated Charging Station) Avoid direct sunlight and sun exposure in order for META-SCRUB 60 to initialize localization, depart from the Integrated Charging Station and return to Integrated Charging Station by scanning the QR code The Integrated charging station must be fixed to the wall and positioned on flat ground for optimal results (to get charging plate alignment)",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 89,
+    "chunk_id": "text_89_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "The Integrated charging station must be fixed to the wall and positioned on flat ground for optimal results (to get charging plate alignment) Failing to do so might cause hazards during or after cleaning operations, such as automatic-localization loss, fail return to the charging station, and uneven charging cycle of the robot 100 cm 100 cm 200 cm Sewage Water Evaluation Clean Water Supplies AC Power Socket Integrated Charging Station",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 89,
+    "chunk_id": "text_89_1",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  },
+  {
+    "content": "Scan for more information (+65) 6744 4777 www.metabots.sg Revision Date：2022.11.21",
+    "type": "text",
+    "source": "documents/META-SCRUB 60_User Manual.pdf",
+    "page": 90,
+    "chunk_id": "text_90_0",
+    "metadata": {
+      "file_name": "META-SCRUB 60_User Manual.pdf",
+      "extraction_method": "pymupdf"
+    }
+  }
+]
